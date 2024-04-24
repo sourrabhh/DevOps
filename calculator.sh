@@ -6,6 +6,9 @@ Substraction
 
 Multiplication
 
-Division
+
 
 x= 10
+
+Division 
+X = x-1
