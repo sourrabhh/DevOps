@@ -13,4 +13,4 @@ x= 10
 Division 
 X = x-1
 
-Square Root and Percentagei
+Square Root and Percentage in Rebase
